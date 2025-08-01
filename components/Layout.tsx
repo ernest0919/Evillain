@@ -14,8 +14,8 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
             <Link href="/">首页</Link>
           </Menu.Item>
           <Menu.Item key="/feature-a">
-            <Link href="/feature-a">功能A</Link>
-          </Menu.Item>
+  <Link href="/feature-a">工时评估</Link>
+</Menu.Item>
           <Menu.Item key="/feature-b">
             <Link href="/feature-b">功能B</Link>
           </Menu.Item>
